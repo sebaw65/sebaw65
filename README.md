@@ -6,5 +6,6 @@
   
 ## 💻 My Tech Stack:
 
-[![Next.js, React, Node.js, JavaScript, TypeScript, Three.js, GraphQL,Jest, Docker, Linux](https://skillicons.dev/icons?i=next,react,nodejs,js,ts,threejs,graphql,jest,docker,linux)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,threejs,react,next,tailwind,styledcomponents,prisma,graphql,postgres,mysql,postman,jest,vite,docker,linux,git,figma,blender&perline=8)](https://skillicons.dev)
+
 </div>
