@@ -1,4 +1,4 @@
-![My stats](https://github-readme-stats.vercel.app/api?username=sebaw65&show_icons=true&theme=transparent)
+![My stats](https://github-readme-stats.vercel.app/api?username=sebaw65&show_icons=true&theme=transparent&hide=stars,commits,prs,issues,contribs)
 
 
 <!--
